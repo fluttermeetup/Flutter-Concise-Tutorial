@@ -7,11 +7,17 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 Step 1: runApp(...)
+
 Step 2: MaterialApp
+
 Step 3: Widget (home)
+
 Step 4: Scaffold
+
 Step 5: appBar
+
 Step 6: Drawer
+
 Step 7: body
 
 A few resources to get you started if this is your first Flutter project:
