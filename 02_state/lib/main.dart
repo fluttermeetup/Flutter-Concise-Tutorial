@@ -18,8 +18,10 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
-        body: Column(
+        body: ListView(
+          padding: const EdgeInsets.all(10),
           children: <Widget>[
             PictureView(picName: picName),
             TextButton(
