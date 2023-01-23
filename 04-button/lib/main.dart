@@ -43,6 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const BackButton(
               color: Colors.orange,
             ),
+            const CloseButton(),
             OutlinedButton(
               onPressed: () {
                 print("press outlined button");
