@@ -6,4 +6,4 @@ A repository to learn the essential knowledge of Flutter
 - 03 Text style
 - 04 Button
 - 05 Container
-
+- 06 MaterialApp Scaffold
