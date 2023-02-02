@@ -7,3 +7,4 @@ A repository to learn the essential knowledge of Flutter
 - 04 Button
 - 05 Container
 - 06 MaterialApp Scaffold
+- 07 Row & Column
