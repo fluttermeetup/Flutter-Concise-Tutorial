@@ -8,3 +8,4 @@ A repository to learn the essential knowledge of Flutter
 - 05 Container
 - 06 MaterialApp Scaffold
 - 07 Row & Column
+- 08 Flex Expanded
